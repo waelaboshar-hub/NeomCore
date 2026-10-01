@@ -1,4 +1,4 @@
-# NEOMCore
+# NEOMCore - Data Structures
 
 NEOMCore is a Java command-line task management system that simulates the coordination of operational tasks across multiple NEOM sectors.
 
